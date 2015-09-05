@@ -41,4 +41,8 @@ This code uses [Caffe](http://caffe.berkeleyvision.org/) and it's Python interfa
 The steps of running the code are described in the "Perform Analysis" iPython notebook 
 
 
+### ACKNOWLEDGMENTS:
+
+We used a subset of the 3D models of [ModelNet](http://modelnet.cs.princeton.edu/)
+
 

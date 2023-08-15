@@ -28,7 +28,7 @@ $ git clone https://github.com/mathieuaubry/features_analysis.git
 
 
 To run the part of the code using CAD models, you will need to download the rendered views of the chair CAD
-models. Depending on the experiment you want to run, you can download the [rotated CAD models](http://imagine.enpc.fr/~aubrym/projects/features_analysis/data/render_rotation.zip) or the front-facing models with varying [foreground color](http://imagine.enpc.fr/~aubrym/projects/features_analysis/data/render_fg.zip), [background color](http://imagine.enpc.fr/~aubrym/projects/features_analysis/data/render_bg.zip) or [light orientation](http://imagine.enpc.fr/~aubrym/projects/features_analysis/data/render_light.zip).
+models. Depending on the experiment you want to run, you can download the [rotated CAD models](https://drive.google.com/file/d/1Balez1vyIZDyCPbR3zmwSCOZKxZk9Uo3/view?usp=sharing) or the front-facing models with varying [foreground color](https://drive.google.com/file/d/1zo1Q-y6MklkDY-AYribuFNbuQ4l1YcBs/view?usp=sharing), [background color](https://drive.google.com/file/d/1Tl2xzyg_MLKGERiwrYyePbu0mmJHU44G/view?usp=sharing) or [light orientation](https://drive.google.com/file/d/1eJOhiFcNcDxf9kwGJl5dzKPNW9bUc2K6/view?usp=sharing).
 
 Alternatively, you can use your own rendered 3D models. We plan to release our own renderer.
 
